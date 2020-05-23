@@ -1,11 +1,11 @@
 h1 {
-    border-bottom: 5px solid slategray;
+    border-bottom: 5px solid lightseagreen;
     
     }
 
 body {
     background-color: lightgray;
-    
+    font-family: 'Montserrat', sans-serif;
     }
     
     .container {
@@ -20,5 +20,21 @@ body {
 
     .row {
     margin-bottom: 25px;
+
+    }
+
+    .btn-primary{
+        background-color: lightseagreen;
+        border-color: lightseagreen;
+
+    }
+    .btn-primary:hover {
+        background-color:slategray;
+        border-color: black;
+    }
+
+    .btn-primary:active {
+        background-color: lightseagreen;
+        border-color: lightseagreen;
 
     }
