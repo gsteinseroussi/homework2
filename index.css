@@ -1,0 +1,24 @@
+h1 {
+border-bottom: 5px solid slategray;
+
+}
+
+body {
+background-color: lightgray;
+
+}
+
+.container {
+margin-top: 25px;
+margin-bottom: 25px;
+padding-left: 25px;
+padding-right: 25px;
+background-color: white;
+
+}
+
+.img-fluid {
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 25px;
+}

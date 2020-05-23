@@ -1,0 +1,36 @@
+h1 {
+    border-bottom: 5px solid slategray;
+    
+    }
+    
+    body {
+    background-color: lightgray;
+    
+    }
+    
+    .container {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: white;
+    
+    }
+
+    .floatleft {
+        float: left;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    
+    }
+
+    .floatright {
+        float: right;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+    }
