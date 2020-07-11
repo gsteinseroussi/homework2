@@ -1,40 +1,36 @@
 h1 {
-    border-bottom: 5px solid lightseagreen;
-    
-    }
-    
-    body {
-    background-color: lightgray;
-    font-family: 'Montserrat', sans-serif;
-    }
-    
-    .container {
-    margin-top: 25px;
-    margin-bottom: 25px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    background-color: white;
-    
-    }
+  border-bottom: 5px solid lightseagreen;
+}
 
-    
-    .row {
-        margin-bottom: 25px;
-    
-        }
+body {
+  background-color: lightgray;
+  font-family: "Montserrat", sans-serif;
+}
 
-    .img-thumbnail {
-position: relative;
+.container {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  background-color: white;
+}
 
-    }
+.row {
+  margin-bottom: 25px;
+}
 
-    .text-block {
-        position: absolute;
-        bottom: 20px;
-        left: 27px;
-        background-color: lightseagreen;
-        color: white;
-        padding-left: auto;
-        padding-right: 20px;
-      }
+.img-thumbnail {
+  position: relative;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  left: 27px;
+  background-color: lightseagreen;
+  color: white;
+  padding-left: auto;
+  padding-right: 20px;
+  max-width: 200px;
+}

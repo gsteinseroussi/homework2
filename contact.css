@@ -1,40 +1,35 @@
 h1 {
-    border-bottom: 5px solid lightseagreen;
-    
-    }
+  border-bottom: 5px solid lightseagreen;
+}
 
 body {
-    background-color: lightgray;
-    font-family: 'Montserrat', sans-serif;
-    }
-    
-    .container {
-    margin-top: 25px;
-    margin-bottom: 25px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    background-color: white;
-    
-    }
+  background-color: lightgray;
+  font-family: "Montserrat", sans-serif;
+}
 
-    .row {
-    margin-bottom: 25px;
+.container {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  background-color: white;
+}
 
-    }
+.row {
+  margin-bottom: 25px;
+}
 
-    .btn-primary{
-        background-color: lightseagreen;
-        border-color: lightseagreen;
+.btn-primary {
+  background-color: lightseagreen;
+  border-color: lightseagreen;
+}
+.btn-primary:hover {
+  background-color: slategray;
+  border-color: black;
+}
 
-    }
-    .btn-primary:hover {
-        background-color:slategray;
-        border-color: black;
-    }
-
-    .btn-primary:active {
-        background-color: lightseagreen;
-        border-color: lightseagreen;
-
-    }
+.btn-primary:active {
+  background-color: lightseagreen;
+  border-color: lightseagreen;
+}
